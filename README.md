@@ -9,12 +9,7 @@
  
  <h1 align="center">Hi, I'm Mubarak Mohamed <p>
  
-  
-
-![Twitter header - 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png)
-
-
-<h3>  💻 &nbsp; More About Me </h3>
+  <h3>  💻 &nbsp; More About Me </h3>
 
 - 💻 I'm web developer, designer, content creator and student
 - 📍 I'm from Sudan
@@ -38,20 +33,15 @@
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
+### ✉️ Find me on:
 
-### 📫Find me on :
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubarakmohamed/)](https://www.linkedin.com/in/mubarakmohamed/)
-<!-- [![Website Badge](https://img.shields.io/badge/-Personal.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://digital-lab.com/my-work/cv/index.html)](https://digital-lab.com/my-work/cv/index.html) -->
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mubarakmohamed)](https://twitter.com/mubarak.mohamed)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubarakmohamed/)](https://www.linkedin.com/in/mubarakmohamed/)
+[![Website Badge](https://img.shields.io/badge/-Personal.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mubarak.mohamed.com/my-work/cv/index.html)](https://mubarak.mohamed.com/my-work/cv/index.html)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mubarak.mohamed)](https://twitter.com/mubarak.mohamed)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:mubarak.mohamed89@gmail.com)
  
-
-  
-  
-  
-  
-
+ 
+ 
   <h3> ⚙️ &nbsp;GitHub Analytics</h3>
 <br>
 <p align="center">
