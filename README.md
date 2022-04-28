@@ -18,20 +18,36 @@
 <!-- - 🤓 I like to learn about new tech and my website on [DigitalizeTech](https://digitalizeTech.sd) -->
   
   ### Languages
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />]()
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]() <br><br>
+
 
 
 ### Technologies
 
-  ![wordpress](https://img.shields.io/badge/-wordpress-000?&logo=wordpress)
-  ![Mysql](https://img.shields.io/badge/-Mysql-E10098?style=plastic&logo=Mysql)
-  ![Figma ](https://img.shields.io/badge/-Figma-0081CB?style=plastic&logo=Figma)
-  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+ [<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/Figma/Figma-original.svg" />]()
+
+[<img align="left" alt="Nginx" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />]()
+
+[<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
+[<img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/wordpress.svg" />]()
+
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
+[<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/linux.svg" />]()
+[<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />]()
+
+
+ 
+ 
 
 ### ✉️ Find me on:
 
