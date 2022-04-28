@@ -24,8 +24,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
- <br><br>
- </br></br>
+
 
 
 ### Technologies
@@ -45,10 +44,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/linux.svg" />]()
 [<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />]()<br><br>
- </br></br>
-
- 
- 
 
 ### ✉️ Find me on:
 
@@ -58,8 +53,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:mubarak.mohamed89@gmail.com)
  
  
- 
-  <h3> ⚙️ &nbsp;GitHub Analytics</h3>
+   <h3> ⚙️ &nbsp;GitHub Analytics</h3>
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=algolia" />
