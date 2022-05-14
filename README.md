@@ -23,13 +23,13 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />]()
-[<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/PHP/PHP-original.svg" />]()
+[<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()</br>
 
 ### Technologies
 [<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />]()
 [<img align="left" alt="wordpress" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/wordpress.svg" />]()
-[<img align="left" alt="Laravel" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />]()
+[<img align="left" alt="Laravel" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" />]()
 [<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />]()
 [<img align="left" alt="Nginx" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" />]()
 [<img align="left" alt="Postgresql" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />]()
