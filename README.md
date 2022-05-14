@@ -11,10 +11,10 @@
  
   <h3>  💻 &nbsp; More About Me </h3>
 
-- 💻 I'm web developer, designer, content creator and student
-- 📍 I'm from Sudan
-- 🕸️ I am passionate about building websites with different langues,
-- 🚴 I like to ride bicycle on a daily basis
+- 🛠 I'm web developer, designer, content creator and student
+- 🔭 I'm currently working on my personal portfolio
+- 🕸️ I am passionate about building websites with different langues
+- 🚴 I like to ride bicycle on a daily basis 
 <!-- - 🤓 I like to learn about new tech and my website on [DigitalizeTech](https://digitalizeTech.sd) -->
   
   ### Languages
