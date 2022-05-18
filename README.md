@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=digitalizetech&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=mubarak-mohamed&label=PROFILE+VIEWS)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+mubarak-mohamed's+GitHub+Profile!)](https://git.io/typing-svg)
 
