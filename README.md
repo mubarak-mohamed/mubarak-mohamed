@@ -15,7 +15,7 @@
 - 🔭 I'm currently working on my personal portfolio
 - 🕸️ I am passionate about building websites with different langues
 - 🚴 I like to ride bicycle on a daily basis 
-<!-- - 🤓 I like to learn about new tech and my website on [DigitalizeTech](https://digitalizeTech.sd) -->
+<!-- - 🤓 I like to learn about new tech and my website on [DigitalizeTech](https://digital-tech.fr) -->
   
   ### Languages
 
