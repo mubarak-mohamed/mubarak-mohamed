@@ -42,7 +42,7 @@
 ### ✉️ Find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubarakmohamed/)](https://www.linkedin.com/in/mubarakmohamed/)
-[![Website Badge](https://img.shields.io/badge/-Personal.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mubarak.mohamed.com/my-work/cv/index.html)](https://mubarak.mohamed.com/my-work/cv/index.html)
+[![Website Badge](https://img.shields.io/badge/-Personal.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mubarak.mohamed.com/my-work/cv/index.html)](https://digital-tech.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mubararkmohamed)](https://twitter.com/mubararkmohamed)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mubarak.mohamed89@gmail.com)](mailto:mubarak.mohamed89@gmail.com)
  
