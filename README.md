@@ -48,10 +48,7 @@
  
  
    <h3> ⚙️ &nbsp;GitHub Analytics</h3>
-<br>
-
 ##### 📊 Detail Github Status
-
 <div>
   <img src="https://badges.pufler.dev/years/mubarak-mohamed" alt="Years Badge"  /> 
   <img src="https://badges.pufler.dev/repos/mubarak-mohamed" alt="MUBARAK-MOHAMED Repos Badge"  /> 
