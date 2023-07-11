@@ -45,10 +45,8 @@
 [![Website Badge](https://img.shields.io/badge/-Personal.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mubarak.mohamed.com/my-work/cv/index.html)](https://digital-tech.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mubararkmohamed)](https://twitter.com/mubararkmohamed)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mubarak.mohamed89@gmail.com)](mailto:mubarak.mohamed89@gmail.com)
- 
- 
-   <h3> ⚙️ &nbsp;GitHub Analytics</h3>
-##### 📊 Detail Github Status
+
+<h3> ⚙️ &nbsp;GitHub Analytics📊</h3>
 <div>
   <img src="https://badges.pufler.dev/years/mubarak-mohamed" alt="Years Badge"  /> 
   <img src="https://badges.pufler.dev/repos/mubarak-mohamed" alt="MUBARAK-MOHAMED Repos Badge"  /> 
@@ -57,8 +55,9 @@
    <!--Ref Link(badge):https://pufler.dev/git-badges/-->
 </div>
 <div align="center">
-    <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=tokyonight" alt="mubarak-mohamed github status board"  />
-    <img width="48%" alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=mubarak-mohamed&theme=react&border=61dafb&hide_border=true" />
+ 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="48%" alt="mubarak-mohamed most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=mubarak-mohamed&theme=react&border=61dafb&hide_border=true" />
 <div>
 
 
