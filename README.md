@@ -49,14 +49,21 @@
  
    <h3> ⚙️ &nbsp;GitHub Analytics</h3>
 <br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=algolia" />
-<!--   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarak-mohamed&layout=compact&langs_count=8&theme=algolia"/> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mubarak-mohamed&theme=algolia" />  
-<!-- <a href="https://github.com/mubarak-mohamed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarak-mohamed&layout=compact&langs_count=8&theme=algolia"/>
-</a> radical-->
 
-</p>
+##### 📊 Detail Github Status
+
+<div>
+  <img src="https://badges.pufler.dev/years/mubarak-mohamed" alt="Years Badge"  /> 
+  <img src="https://badges.pufler.dev/repos/mubarak-mohamed" alt="MUBARAK-MOHAMED Repos Badge"  /> 
+  <img src="https://badges.pufler.dev/commits/monthly/mubarak-mohamed" alt="Updated
+   Badge"  /> 
+   <!--Ref Link(badge):https://pufler.dev/git-badges/-->
+</div>
+<div align="center">
+    <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=tokyonight" alt="mubarak-mohamed github status board"  />
+    <img width="48%" alt="bdfd most used language board" src="https://github-readme-streak-stats.herokuapp.com/?user=mubarak-mohamed&theme=react&border=61dafb&hide_border=true" />
+<div>
+
+
+
 
