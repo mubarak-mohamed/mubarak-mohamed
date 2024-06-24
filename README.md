@@ -12,7 +12,7 @@
   <h3>  💻 &nbsp; More About Me </h3>
 
 - 🛠 I'm web developer, Data analyst and student 
-- 🔭 I'm currently working on my website @ [ Zool Techno](https://www.zool-techno.com)
+- 🔭 I'm currently working on my website at [ Zool Techno](https://www.zool-techno.com)
 - 🕸️ I am passionate about building websites with different langues
 - 🌱 Learning more about Data Science 
 <!-- - 😎 Co-Founder @ [ Zool Techno](https://www.zool-techno.com) -->
