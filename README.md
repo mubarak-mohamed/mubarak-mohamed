@@ -2,7 +2,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+mubarak-mohamed's+GitHub+Profile!)](https://git.io/typing-svg)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&font=Fira+Code&pause=1000&color=2AA889&background=33FF3100&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!;I+am+Mubarak+Mohamed;Software+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&font=Fira+Code&pause=1000&color=2AA889&background=33FF3100&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!;I+'m+Mubarak+Mohamed;A+Software+Engineer;)](https://git.io/typing-svg)
 
  <img align="right" src="/assets/img/coder_id.gif " width="300" height="300"/>
  </p>
@@ -11,10 +11,10 @@
 
   <h3>  💻 &nbsp; More About Me </h3>
 
-- 🛠 I'm web developer, designer, content creator and student 
+- 🛠 I'm web developer, Data analyst and student 
 - 🔭 I'm currently working on my website @ [ Zool Techno](https://www.zool-techno.com)
 - 🕸️ I am passionate about building websites with different langues
-- 🚴 I like to ride bicycle on a daily basis 
+- 🌱 Learning more about Data Science 
 <!-- - 😎 Co-Founder @ [ Zool Techno](https://www.zool-techno.com) -->
 
 ###  👨‍💻 Programming languages
@@ -41,9 +41,9 @@
 [<img align="left" alt="Bash" width="26px" src="https://skillicons.dev/icons?i=bash" />]()
 [<img align="left" alt="vscode" width="26px" src="https://skillicons.dev/icons?i=vscode" />]()<br><br>
 
-### ✉️ Find me on:
+### 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubarakmohamed/)](https://www.linkedin.com/in/mubarakmohamed/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)](https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)
 [![Website Badge](https://img.shields.io/badge/-personnl.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mubarak.mohamed.com/my-work/cv/index.html)](https://digital-tech.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zool_techno)](https://twitter.com/zool_techno)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zool.techno24@gmail.com)](mailto:zool.techno24@gmail.com)
