@@ -2,22 +2,20 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+mubarak-mohamed's+GitHub+Profile!)](https://git.io/typing-svg)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&font=Fira+Code&pause=1000&color=2AA889&background=33FF3100&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!;I+'m+Mubarak+Mohamed;A+Software+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&font=Fira+Code&pause=1000&color=2AA889&background=33FF3100&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+;I'm+Mubarak+Mohamed;A+passionate++Software+Engineer;)](https://git.io/typing-svg)
 
  <img align="right" src="/assets/img/coder_id.gif " width="300" height="300"/>
  </p>
 
- <!-- <h1 align="center">Hi, I'm Mubarak Mohamed 👋 <p> -->
 
-  <h3>  💻 &nbsp; More About Me </h3>
+<h3>  💻&nbsp; More About Me :</h3> 
 
-- 🛠 I'm web developer, Data analyst and student 
-- 🔭 I'm currently working on my website at [ Zool Techno](https://www.zool-techno.com)
-- 🕸️ I am passionate about building websites with different langues
-- 🌱 Learning more about Data Science 
-<!-- - 😎 Co-Founder @ [ Zool Techno](https://www.zool-techno.com) -->
+- 🌟 I'm a web developer, data analyst, and student.
+- 🚀 Currently, I'm developing my website at [Zool Techno](https://www.zool-techno.com)
+- 🕸️ Focused on building tools to enhance developer productivity.
+- 🔍 Passionate about exploring new technologies, especially in data science.
 
-###  👨‍💻 Programming languages
+<h3>  👨‍💻 &nbsp;Technical Skills :</h3> 
 
 [<img align="left" alt="HTML5" width="26px" src="https://skillicons.dev/icons?i=html" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://skillicons.dev/icons?i=css" />]()
@@ -28,34 +26,35 @@
 
 </br>
 
-### 🛠️ Technologies
+<h3> 🛠️ &nbsp;Tools & Platforms :</h3> 
+
 [<img align="left" alt="Docker" width="26px" src="https://skillicons.dev/icons?i=docker" />]()
 [<img align="left" alt="wordpress" width="26px" src="https://skillicons.dev/icons?i=wordpress" />]()
 [<img align="left" alt="Laravel" width="26px" src="https://skillicons.dev/icons?i=laravel" />]()
 [<img align="left" alt="Figma" width="26px" src="https://skillicons.dev/icons?i=figma" />]()
 [<img align="left" alt="Nginx" width="26px" src="https://skillicons.dev/icons?i=nginx" />]()
-[<img align="left" alt="Postgresql" width="26px" src="https://skillicons.dev/icons?i=postgres" />]()
+[<img align="left" alt="Postgresql" width="26px" src="https://skillicons.dev/icons?i=postgres"/>]()
 [<img align="left" alt="MySQL" width="26px" src="https://skillicons.dev/icons?i=mysql" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://skillicons.dev/icons?i=github" />]()
 [<img align="left" alt="Linux" width="26px" src="https://skillicons.dev/icons?i=linux" />]()
 [<img align="left" alt="Bash" width="26px" src="https://skillicons.dev/icons?i=bash" />]()
-[<img align="left" alt="vscode" width="26px" src="https://skillicons.dev/icons?i=vscode" />]()<br><br>
+[<img align="left" alt="vscode" width="26px" src="https://skillicons.dev/icons?i=vscode" />]()<br>
 
-### 📫 How to reach me:
+<h3> 📫 &nbsp;Get In Touch :</h3>
+ 
+Feel free to reach out via
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)](https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)
-[![Website Badge](https://img.shields.io/badge/-personnl.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mubarak.mohamed.com/my-work/cv/index.html)](https://digital-tech.netlify.app/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zool_techno)](https://twitter.com/zool_techno)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zool.techno24@gmail.com)](mailto:zool.techno24@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/g3mdmFgt/)](https://discord.gg/g3mdmFgt)
+[![Website Badge](https://img.shields.io/badge/-personnl.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.zool-techno.com)](https://www.zool-techno.com/)
 
-<h3> ⚙️ &nbsp;GitHub Analytics📊</h3>
+<h3> ⚙️ &nbsp;GitHub Analytics📊 :</h3>
 <div>
   <img src="https://badges.pufler.dev/years/mubarak-mohamed" alt="Years Badge"  /> 
   <img src="https://badges.pufler.dev/repos/mubarak-mohamed" alt="MUBARAK-MOHAMED Repos Badge"  /> 
   <img src="https://badges.pufler.dev/commits/monthly/mubarak-mohamed" alt="Updated
    Badge"  /> 
-   <!--Ref Link(badge):https://pufler.dev/git-badges/-->
 </div>
 <div align="center">
 
@@ -63,10 +62,3 @@
 <a href="https://github.com/mubarak-mohamed?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mubarak-mohamed&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
 </div>
-
- <!--Ref Link(skillicons):https://skillicons.dev/-->
-<!--<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p> -->
