@@ -10,7 +10,7 @@
 
 <h3>  💻&nbsp; More About Me :</h3> 
 
-- 🌟 I'm a web developer, data analyst, and student.
+- 🌟 I am a web developer and a university student CS.
 - 🚀 Currently, I'm developing my website at [Zool Techno](https://www.zool-techno.com)
 - 🕸️ Focused on building tools to enhance developer productivity.
 - 🔍 Passionate about exploring new technologies, especially in data science.
@@ -47,7 +47,7 @@ Feel free to reach out via
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)](https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zool.techno24@gmail.com)](mailto:zool.techno24@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/g3mdmFgt/)](https://discord.gg/g3mdmFgt)
-[![Website Badge](https://img.shields.io/badge/-personnl.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.zool-techno.com)](https://www.zool-techno.com/)
+[![Website Badge](https://img.shields.io/badge/-personnl.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://zool-techno.com/blog/)](https://zool-techno.com/blog/)
 
 <h3> ⚙️ &nbsp;GitHub Analytics📊 :</h3>
 <div>
