@@ -61,9 +61,7 @@ Feel free to reach out via
 <a href="https://github.com/mubarak-mohamed?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 <a href="https://github.com/mubarak-mohamed?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=mubarak-mohamed&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
-</div>
 ---
-
  <div align="center">
    <i>If you find my work helpful, consider supporting me:</i><br><br>
    <a href="https://www.buymeacoffee.com/mubarak.mohamed">
