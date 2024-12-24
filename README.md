@@ -65,6 +65,14 @@ Feel free to reach out via
  <div align="center">
    <i>If you find my work helpful, consider supporting me:</i><br><br>
    <a href="https://www.buymeacoffee.com/mubarak.mohamed">
-     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
-   </a>
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
+     
+   [![paypal.com/donate/?hosted_button_id=YD794ZYA4GS9L](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?hosted_button_id=YD794ZYA4GS9L) 
+   </a> <br>
+   
+  <!-- * [![paypal.com/donate/?hosted_button_id=YD794ZYA4GS9L](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?hosted_button_id=YD794ZYA4GS9L) - You can make a one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+-->
+
+Thanks! :heart:
  </div>
+ 
