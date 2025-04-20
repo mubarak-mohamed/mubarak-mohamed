@@ -42,9 +42,9 @@
 [<img align="left" alt="Git" width="26px" src="https://skillicons.dev/icons?i=git" />]()
 [<img align="left" alt="Linux" width="26px" src="https://skillicons.dev/icons?i=linux" />]()
 [<img align="left" alt="Bash" width="26px" src="https://skillicons.dev/icons?i=bash" />]()
-[<img align="left" alt="vscode" width="26px" src="https://skillicons.dev/icons?i=vscode" />]()<br>
-
-<h3> 📊 &nbsp;Data Analytics 📈:</h3> 
+[<img align="left" alt="vscode" width="26px" src="https://skillicons.dev/icons?i=vscode" />]()
+</br>
+<h3> 📊 &nbsp;Data Analytics :</h3> 
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&width="26px")&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white&width="26px")&nbsp;
@@ -53,16 +53,15 @@
 ![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white&width="26px")&nbsp;
 ![anaconda](https://img.shields.io/badge/anaconda-00b56a.svg?logo=anaconda&logoColor=white&width="26px")&nbsp;
 
-<h3> 📫 &nbsp;Get In Touch 📩:</h3>
+<h3> 📫 &nbsp;Get In Touch :</h3>
  
 Feel free to reach out via
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)](https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zool.techno24@gmail.com)](mailto:zool.techno24@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/B9P3Jy6d/)](https://discord.gg/B9P3Jy6d)
-[![Linktr](https://img.shields.io/badge/-Linktr-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/zool_techno/)](https://linktr.ee/zool_techno/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://mubarak-mohamed.github.io/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)](https://www.linkedin.com/company/zool-techno/?viewAsMember=true/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zool.techno24@gmail.com)](mailto:zool.techno24@gmail.com)&nbsp;
+[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/B9P3Jy6d/)](https://discord.gg/B9P3Jy6d)&nbsp;
+[![Linktr](https://img.shields.io/badge/-Linktr-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/zool_techno/)](https://linktr.ee/zool_techno/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://mubarak-mohamed.github.io/)&nbsp;
 
 <h3> 📊 &nbsp;GitHub Analytics :</h3>
 <div>
@@ -73,13 +72,11 @@ Feel free to reach out via
 </div>
 
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=gotham) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubarak-mohamed&theme=gotham)](https://git.io/streak-stats)  
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubarak-mohamed&theme=gotham)](https://git.io/streak-stats) 
 <hr>
 
 <div align="center">
-<H3>Thank You for visiting my profile 🙏   </H3>
-
+<i>Thank You for visiting my profile 🙏   </i>
 
 [![paypal.com/donate/?hosted_button_id=YD794ZYA4GS9L&](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?hosted_button_id=YD794ZYA4GS9L) <a href="https://www.buymeacoffee.com/mubarak.mohamed"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee" /> &nbsp;
 
