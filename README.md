@@ -52,7 +52,7 @@
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F2C811?style=flat&logo=Power%20BI&logoColor=white&width="26px")&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white&width="26px")&nbsp;
 ![anaconda](https://img.shields.io/badge/anaconda-00b56a.svg?logo=anaconda&logoColor=white&width="26px")&nbsp;
-
+</br>
 <h3> 📫 &nbsp;Get In Touch :</h3>
  
 Feel free to reach out via
@@ -62,7 +62,7 @@ Feel free to reach out via
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white&link=https://discord.gg/B9P3Jy6d/)](https://discord.gg/B9P3Jy6d)&nbsp;
 [![Linktr](https://img.shields.io/badge/-Linktr-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/zool_techno/)](https://linktr.ee/zool_techno/)&nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://mubarak-mohamed.github.io/)&nbsp;
-
+</br>
 <h3> 📊 &nbsp;GitHub Analytics :</h3>
 <div>
   <img src="https://badges.pufler.dev/years/mubarak-mohamed" alt="Years Badge"  /> 
@@ -71,10 +71,9 @@ Feel free to reach out via
    Badge"  /> 
 </div>
 
-![Mei's github stats](https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=gotham) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubarak-mohamed&theme=gotham)](https://git.io/streak-stats) 
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=mubarak-mohamed&show_icons=true&theme=gotham)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubarak-mohamed&theme=gotham)](https://git.io/streak-stats) 
 <hr>
-
+</br>
 <div align="center">
 <i>Thank You for visiting my profile 🙏   </i>
 
