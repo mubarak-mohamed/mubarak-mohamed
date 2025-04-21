@@ -6,12 +6,13 @@
  <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="300"/>
  </p>
 
-  <h3>  💻 &nbsp; More About Me </h3>
+<h3>  💻 &nbsp; More About Me </h3>
+
 🌟 I am a web developer and a university student CS.<br>
 🚀 Currently, I'm developing my website at [Zool Techno](https://www.zool-techno.com).<br>
 🕸️ Focused on building tools to enhance developer productivity.<br>
 🔍 Passionate about exploring new technologies, especially in data science.
-<!-- - 😎 Co-Founder @ [ Zool Techno](https://www.zool-techno.com)🌱 🔭 -->
+<!-- 😎 Co-Founder @ [ Zool Techno](https://www.zool-techno.com)🌱 🔭 -->
 
 ###  👨‍💻 Programming languages
 
