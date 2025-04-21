@@ -79,7 +79,7 @@
 
 [![paypal.com/donate/?hosted_button_id=YD794ZYA4GS9L&](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?hosted_button_id=YD794ZYA4GS9L) <a href="https://www.buymeacoffee.com/mubarak.mohamed"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee" /> &nbsp;
 
-[![Donate%20on%20opencollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/zool)&nbsp;
+<!--[![Donate%20on%20opencollective](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/zool)&nbsp;-->
 
 <br>
 </div>
